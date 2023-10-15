@@ -1,0 +1,18 @@
+.heading{
+	color:  #835EF9;
+  }
+  
+  #btn {
+	padding: 15px;
+	font-size: 15px;
+	font-weight: 600;
+	color: white;
+	background-color: #835EF9;
+	border: none;
+	border-radius: 25px;
+	cursor: pointer; 
+  }
+  
+  #btn:hover {
+	transform: scale(1.05);
+  }
